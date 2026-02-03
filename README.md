@@ -5,6 +5,11 @@
   </a>
 </p>
 
+### 🛠 SAP Skills
+![ABAP](https://img.shields.io/badge/ABAP-Expert-blue)
+![SAP BTP](https://img.shields.io/badge/SAP%20BTP-Cloud-orange)
+![SAP Fiori](https://img.shields.io/badge/SAP%20Fiori-UI-green)
+
 
 
 
